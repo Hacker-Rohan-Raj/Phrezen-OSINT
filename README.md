@@ -13,5 +13,5 @@ git clone https://github.com/Hacker-Rohan-Raj/Phrezen-OSINT
 cd Phrezen-OSINT
 ```
 ```
-python3 
+python3 Phonenumber Lookup.py
 ```
